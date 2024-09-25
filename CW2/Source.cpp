@@ -88,7 +88,7 @@ int main() {
 	std::cin >> roubles;
 
 	std::string valutes[5]{ "Tenge","Dollar","Euro","Farit","Zloti" };
-	float valutes_cost[5]{ 5.17,0.011,0.0097,0.027,0.041 };
+	double valutes_cost[5]{ 5.17,0.011,0.0097,0.027,0.041 };
 
 
 	std::cout
