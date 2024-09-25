@@ -82,7 +82,7 @@ int main() {
 
 int main() {
 	bool again = false;
-	float roubles = 0, total_earn = 0;
+	double roubles = 0, total_earn = 0;
 	int choice = -1, choice2 = 0;
 	text_visualise("Enter amount of roubles\nthat you want to convert\n--> ");
 	std::cin >> roubles;
